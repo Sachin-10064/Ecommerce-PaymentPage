@@ -1,0 +1,25 @@
+.header{
+    padding: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    justify-content: space-between;
+    text-align: center;
+}
+.header__logo{
+    display: flex;
+}
+.header__logoIcon{
+    margin-top: -5px;
+}
+.header__logoName > span{
+    font-size: 18px;
+    font-weight: 400;
+}
+.header__catagory > span{
+    padding: 30px;
+}
+.header__icon{
+    padding: 0 10px 0 10px;
+    font-size: 30px;
+}
