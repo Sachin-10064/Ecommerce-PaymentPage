@@ -57,7 +57,7 @@ function Body() {
                         <div className='body__paymentmoderow2'>
                             <button className='body__paymentBut'><img className='body__paymentImg' src='https://www.pinclipart.com/picdir/big/20-205533_bezahlmglichkeiten-mastercard-logo-png-white-clipart.png' alt='' /></button>
                             <button className='body__paymentBut'><img className='body__paymentImg' src='https://www.discover.com/content/dam/dfs/credit-cards/global/images/discover-logo.png' alt='' /></button>
-                            <button className='body__paymentBut'><img className='body__paymentImg' src='https://48s6gp20mp881h7ml743akvr-wpengine.netdna-ssl.com/wp-content/themes/ic/new-assets/images/logo_dark.svg' alt='' /></button>
+                            <button className='body__paymentBut'><img className='body__paymentImg' src='http://pngimg.com/uploads/paypal/paypal_PNG2.png' alt='' /></button>
                         </div>
 
 
@@ -65,7 +65,7 @@ function Body() {
                     <p className='body__title'>Delivery method</p>
                     <div className='body__deliveryMethod'>
                         <div className='body__deliveryMethodrow1'>
-                            <button className='body__paymentBut'><img className='body__paymentImg' src='https://inpost.pl/themes/custom/inpost/logo.svg' alt='' /><p>$20.00</p></button>
+                            <button className='body__paymentBut'><img className='body__paymentImg' src='https://www.pinclipart.com/picdir/big/391-3919795_fedex-clipart-ups-delivery-fedex-logo-vector-png.png' alt='' /><p>$20.00</p></button>
                             <button className='body__paymentBut'><img className='body__paymentImg' src='https://www.dpd.co.uk/asset_files/logo/dpd.png' alt='' /><p>$12.00</p></button>
                         </div>
                         <div className='body__deliveryMethodrow2'>
